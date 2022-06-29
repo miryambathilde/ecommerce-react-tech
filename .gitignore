@@ -5,6 +5,7 @@ node_modules
 .env
 /.pnp
 .pnp.js
+.babelrc
 
 # testing
 /coverage
@@ -31,6 +32,7 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 assets
+
 
 # vercel
 .vercel
