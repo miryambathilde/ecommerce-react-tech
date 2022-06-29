@@ -2,6 +2,7 @@
 
 Modern Full Stack Ecommerce application with Payments functionality
 
+![screenshot](https://user-images.githubusercontent.com/72916496/176389044-48cabfe3-c6b2-44d0-8b17-e86e351a9c2a.png)
 
 ## Demo
 
