@@ -1,4 +1,48 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Modern Full Stack ECommerce Application with Stripe & Sanity
+
+Modern Full Stack Ecommerce application with Payments functionality
+
+
+## Demo
+
+You can see the demo here:
+
+https://ecommerce-react-tech.vercel.app/
+
+
+## Technologies used for building this ecommerce
+
+ - [Next JS](https://nextjs.org/) to create the app.
+ - [Sanity](https://www.sanity.io/) to manage the backend of our ecommerce easily.
+ - [Stripe](https://stripe.com/es) to implement our payment gateway.
+ - [Vercel](https://vercel.com/) to deploy the ecommerce application.
+
+
+## Authors
+
+- [@miryambathilde](https://github.com/miryambathilde)
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  next build
+```
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+
 
 ## Getting Started
 
